@@ -1,0 +1,11 @@
+C:\Users\ralf_\source\repos\AspnetCore_WebApi\AspnetCore_WebApi\bin\Debug\netcoreapp2.0\AspnetCore_WebApi.deps.json
+C:\Users\ralf_\source\repos\AspnetCore_WebApi\AspnetCore_WebApi\bin\Debug\netcoreapp2.0\AspnetCore_WebApi.runtimeconfig.json
+C:\Users\ralf_\source\repos\AspnetCore_WebApi\AspnetCore_WebApi\bin\Debug\netcoreapp2.0\AspnetCore_WebApi.runtimeconfig.dev.json
+C:\Users\ralf_\source\repos\AspnetCore_WebApi\AspnetCore_WebApi\bin\Debug\netcoreapp2.0\AspnetCore_WebApi.dll
+C:\Users\ralf_\source\repos\AspnetCore_WebApi\AspnetCore_WebApi\bin\Debug\netcoreapp2.0\AspnetCore_WebApi.pdb
+C:\Users\ralf_\source\repos\AspnetCore_WebApi\AspnetCore_WebApi\obj\Debug\netcoreapp2.0\AspnetCore_WebApi.csprojResolveAssemblyReference.cache
+C:\Users\ralf_\source\repos\AspnetCore_WebApi\AspnetCore_WebApi\obj\Debug\netcoreapp2.0\AspnetCore_WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ralf_\source\repos\AspnetCore_WebApi\AspnetCore_WebApi\obj\Debug\netcoreapp2.0\AspnetCore_WebApi.AssemblyInfoInputs.cache
+C:\Users\ralf_\source\repos\AspnetCore_WebApi\AspnetCore_WebApi\obj\Debug\netcoreapp2.0\AspnetCore_WebApi.AssemblyInfo.cs
+C:\Users\ralf_\source\repos\AspnetCore_WebApi\AspnetCore_WebApi\obj\Debug\netcoreapp2.0\AspnetCore_WebApi.dll
+C:\Users\ralf_\source\repos\AspnetCore_WebApi\AspnetCore_WebApi\obj\Debug\netcoreapp2.0\AspnetCore_WebApi.pdb
