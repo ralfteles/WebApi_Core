@@ -15,7 +15,6 @@ namespace AspnetCore_WebApi.Repository
             public TarefaRepositorio(TarefaContext context)            
             {
                 _context = context;
-                //Add(new TarefaItem { Nome = "item 1" });
             }
 
             public IEnumerable<TarefaItem> GetAll()
@@ -33,7 +32,6 @@ namespace AspnetCore_WebApi.Repository
             {
                 return _context.TarefaItens.FirstOrDefault(t => t.Chave == key);
             }
-
 
             public void Remove(long key)
             {
